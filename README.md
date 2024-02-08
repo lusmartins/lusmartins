@@ -2,8 +2,8 @@
 
 <div>
   <a href = "hhtps://beacons.ai/lusmartins">
-    <img heignt="180em" src="https://github-readme-stats.vercel.app/api?username=lusmartins&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusmartins&layout=compact&langs_count=16&theme=merko"/>
+    <img heignt="180em" src="https://github-readme-stats.vercel.app/api?username=lusmartins&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusmartins&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 
 ## 
